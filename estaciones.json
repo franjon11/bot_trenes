@@ -1,0 +1,782 @@
+[
+  {
+    "id_unico_estacion": "2",
+    "nombre": "9 de Julio",
+    "ramales": [36],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "11",
+    "nombre": "Alberdi",
+    "ramales": [33],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "4234",
+    "nombre": "Alem",
+    "ramales": [33],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "16",
+    "nombre": "Alta C\u00f3rdoba",
+    "ramales": [32, 29],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "4289",
+    "nombre": "Antartida Argentina",
+    "ramales": [35],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "24",
+    "nombre": "Arg\u00fcello",
+    "ramales": [29, 32],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "497",
+    "nombre": "Arroyo Seco",
+    "ramales": [19],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "27",
+    "nombre": "Azul",
+    "ramales": [8],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "28",
+    "nombre": "Bah\u00eda Blanca",
+    "ramales": [8],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "480",
+    "nombre": "Baradero",
+    "ramales": [20, 19, 21, 28],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "31",
+    "nombre": "Batalla de Salta",
+    "ramales": [34],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "463",
+    "nombre": "Bell Ville",
+    "ramales": [21],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "4588",
+    "nombre": "Beltran",
+    "ramales": [37],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "40",
+    "nombre": "Betania",
+    "ramales": [34],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "41",
+    "nombre": "Bialet Mass\u00e9",
+    "ramales": [32, 29],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "46",
+    "nombre": "Bragado",
+    "ramales": [36, 11],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "481",
+    "nombre": "Buenos Aires",
+    "ramales": [21, 14, 16, 19, 1, 11, 3, 20, 15, 28, 33, 36, 8, 26],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "465",
+    "nombre": "Cachar\u00ed",
+    "ramales": [8],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "55",
+    "nombre": "Campana",
+    "ramales": [21, 20, 19, 28],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "493",
+    "nombre": "Campo Quijano",
+    "ramales": [34],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "59",
+    "nombre": "Ca\u00f1ada de G\u00f3mez",
+    "ramales": [35, 21],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "4285",
+    "nombre": "Carcara\u00f1a",
+    "ramales": [35],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "68",
+    "nombre": "Carlos Casares",
+    "ramales": [36],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "66",
+    "nombre": "Casa Bamba",
+    "ramales": [29, 32],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "496",
+    "nombre": "Casa Grande",
+    "ramales": [32],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "69",
+    "nombre": "Cassaffousth",
+    "ramales": [32, 29],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "71",
+    "nombre": "Castelli",
+    "ramales": [1],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "443",
+    "nombre": "Castilla",
+    "ramales": [16, 14, 33],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "74",
+    "nombre": "Ceres",
+    "ramales": [20],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "398",
+    "nombre": "Cevil Pozo (Tuc)",
+    "ramales": [20],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "75",
+    "nombre": "Chacabuco",
+    "ramales": [14, 33, 16, 3],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "78",
+    "nombre": "Chascom\u00fas",
+    "ramales": [1, 15],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "80",
+    "nombre": "Chivilcoy",
+    "ramales": [11],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "86",
+    "nombre": "Cnel. Brandsen",
+    "ramales": [15, 1],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "97",
+    "nombre": "Cnel. Su\u00e1rez",
+    "ramales": [8],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "87",
+    "nombre": "Cnel. Vidal",
+    "ramales": [1],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "92",
+    "nombre": "Colonia Dora",
+    "ramales": [20],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "492",
+    "nombre": "Combate de Rosario de Lerma",
+    "ramales": [34],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "95",
+    "nombre": "C\u00f3rdoba",
+    "ramales": [27, 21],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "4235",
+    "nombre": "C\u00f3rdoba (TDS MITRE)",
+    "ramales": [32],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "4284",
+    "nombre": "Correa",
+    "ramales": [21, 35],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "99",
+    "nombre": "Cosqu\u00edn",
+    "ramales": [29, 32],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "487",
+    "nombre": "Div. Pinamar",
+    "ramales": [31],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "487",
+    "nombre": "Pinamar",
+    "ramales": [31],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "114",
+    "nombre": "Dolores",
+    "ramales": [1],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "122",
+    "nombre": "Dumesnill",
+    "ramales": [29, 32],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "124",
+    "nombre": "El Bordo",
+    "ramales": [34],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "458",
+    "nombre": "Empalme Villa Constituci\u00f3n",
+    "ramales": [19],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "4586",
+    "nombre": "Fernandez",
+    "ramales": [37],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "4587",
+    "nombre": "Forres",
+    "ramales": [37],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "442",
+    "nombre": "Franklin",
+    "ramales": [33, 14, 16],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "4288",
+    "nombre": "Funes",
+    "ramales": [35],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "145",
+    "nombre": "G\u00e1lvez",
+    "ramales": [20],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "4498",
+    "nombre": "G. Levalle",
+    "ramales": [33],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "158",
+    "nombre": "Gral. Guido",
+    "ramales": [1, 31],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "158",
+    "nombre": "Guido",
+    "ramales": [1, 31],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "460",
+    "nombre": "Gral. Lamadrid",
+    "ramales": [8],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "490",
+    "nombre": "Gral. Madariaga",
+    "ramales": [31],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "162",
+    "nombre": "Gral. Pir\u00e1n",
+    "ramales": [1],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "446",
+    "nombre": "G\u00dcEMES",
+    "ramales": [34],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "175",
+    "nombre": "Hospital Neonatal",
+    "ramales": [29, 32],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "4306",
+    "nombre": "Iriarte",
+    "ramales": [33],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "187",
+    "nombre": "James Craik",
+    "ramales": [27],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "194",
+    "nombre": "Jose C Paz",
+    "ramales": [16, 33],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "202",
+    "nombre": "Jun\u00edn",
+    "ramales": [3, 33, 16, 14],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "4506",
+    "nombre": "Justo Daract",
+    "ramales": [33],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "206",
+    "nombre": "La Banda",
+    "ramales": [20, 37],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "4493",
+    "nombre": "Laboulaye",
+    "ramales": [33],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "208",
+    "nombre": "La Calera",
+    "ramales": [29, 32],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "211",
+    "nombre": "Laguna Larga",
+    "ramales": [27],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "221",
+    "nombre": "Las Armas",
+    "ramales": [1],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "224",
+    "nombre": "Las Flores",
+    "ramales": [8],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "227",
+    "nombre": "La Tablada",
+    "ramales": [29, 32],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "482",
+    "nombre": "Leones",
+    "ramales": [21],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "230",
+    "nombre": "Lezama",
+    "ramales": [15, 1],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "4233",
+    "nombre": "Lima",
+    "ramales": [19],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "247",
+    "nombre": "Luj\u00e1n",
+    "ramales": [11],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "452",
+    "nombre": "Maip\u00fa",
+    "ramales": [1],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "251",
+    "nombre": "Manfredi",
+    "ramales": [27],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "464",
+    "nombre": "Marcos Juarez",
+    "ramales": [21],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "255",
+    "nombre": "Mar del Plata",
+    "ramales": [1, 26],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "266",
+    "nombre": "Mechita",
+    "ramales": [11],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "268",
+    "nombre": "Mercedes",
+    "ramales": [11],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "476",
+    "nombre": "Mercedes P",
+    "ramales": [33, 16],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "276",
+    "nombre": "Monte",
+    "ramales": [8],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "285",
+    "nombre": "Narvaja",
+    "ramales": [32, 29],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "478",
+    "nombre": "O'Higgins",
+    "ramales": [33, 16],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "288",
+    "nombre": "Olavarr\u00eda",
+    "ramales": [8],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "289",
+    "nombre": "Oliva",
+    "ramales": [27],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "292",
+    "nombre": "Oncativo",
+    "ramales": [27],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "491",
+    "nombre": "Pacto de los Cerrillos",
+    "ramales": [34],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "302",
+    "nombre": "Pehuajo",
+    "ramales": [36],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "305",
+    "nombre": "Pig\u00fc\u00e9",
+    "ramales": [8],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "306",
+    "nombre": "Pilar",
+    "ramales": [16, 33],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "456",
+    "nombre": "Pilar (C\u00f3rdoba)",
+    "ramales": [27],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "307",
+    "nombre": "Pinto",
+    "ramales": [20],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "323",
+    "nombre": "Rafaela",
+    "ramales": [20],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "326",
+    "nombre": "Ramallo",
+    "ramales": [28, 19],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "444",
+    "nombre": "Rawson",
+    "ramales": [33, 14, 16],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "336",
+    "nombre": "R\u00edo Segundo",
+    "ramales": [27],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "477",
+    "nombre": "Rivas",
+    "ramales": [33, 16],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "338",
+    "nombre": "Rod. del Busto",
+    "ramales": [29, 32],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "4287",
+    "nombre": "Roldan",
+    "ramales": [35],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "341",
+    "nombre": "Rosario Norte",
+    "ramales": [20, 21, 19, 35],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "342",
+    "nombre": "Rosario Sur",
+    "ramales": [21, 19, 20],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "345",
+    "nombre": "Rufino",
+    "ramales": [33],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "462",
+    "nombre": "Saavedra",
+    "ramales": [8],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "348",
+    "nombre": "Saenz Pe\u00f1a",
+    "ramales": [16, 33],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "351",
+    "nombre": "Salta",
+    "ramales": [34],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "4286",
+    "nombre": "San Jeronimo",
+    "ramales": [35],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "4536",
+    "nombre": "San Lorenzo",
+    "ramales": [20],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "362",
+    "nombre": "San Nicol\u00e1s",
+    "ramales": [21, 28, 19, 20],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "363",
+    "nombre": "San Pedro",
+    "ramales": [20, 21, 19, 28],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "364",
+    "nombre": "San Roque",
+    "ramales": [29, 32],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "366",
+    "nombre": "Santa Mar\u00eda",
+    "ramales": [32, 29],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "494",
+    "nombre": "Serodino",
+    "ramales": [20],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "376",
+    "nombre": "Sevigne",
+    "ramales": [1],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "484",
+    "nombre": "Sto. Domingo",
+    "ramales": [31],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "382",
+    "nombre": "Suipacha",
+    "ramales": [11],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "479",
+    "nombre": "Sunchales",
+    "ramales": [20],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "390",
+    "nombre": "Tio Pujio",
+    "ramales": [27],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "391",
+    "nombre": "Toledo",
+    "ramales": [27],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "393",
+    "nombre": "Tornquist",
+    "ramales": [8],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "403",
+    "nombre": "Vaccarezza",
+    "ramales": [11],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "495",
+    "nombre": "Valle Hermoso",
+    "ramales": [32],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "405",
+    "nombre": "Vedia",
+    "ramales": [33],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "425",
+    "nombre": "Villa Maria",
+    "ramales": [21, 27],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "429",
+    "nombre": "Vivorat\u00e1",
+    "ramales": [1],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "4501",
+    "nombre": "V. Mackenna",
+    "ramales": [33],
+    "combinacion": "f"
+  },
+  {
+    "id_unico_estacion": "434",
+    "nombre": "Zarate",
+    "ramales": [21, 28, 19, 20],
+    "combinacion": "f"
+  }
+]

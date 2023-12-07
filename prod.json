@@ -1,0 +1,6 @@
+{
+  "DISCORD_KEY": "MTAyNzE2NDM3NjgwMjc5NTUyMA.Ga-t8s.FHvnkKYHoJ_F2WuT3u70EV3H7fKXKruc9F-x08",
+  "NAME_ALERTS_FILE": "alerts.json",
+  "NAME_ALERTS_ERROR_FILE": "alertsError.json",
+  "LIMIT_ALERTS_PER_USER": 5
+}
